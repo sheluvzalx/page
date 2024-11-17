@@ -354,13 +354,27 @@ color: red;
   margin-bottom: 20px;
 }
 
-/* SOME RESPONSIVE LINES */
 @media (max-width: 600px) {
 .card {
   width: auto;
   position: relative;
   left: 0;
   top: 500px;
+}
+.skillsMain {
+  position: relative;
+  left: -0px;
+  top: 100px;
+}
+.mainSection {
+  position: relative;
+  left: 0;
+  top: -10px;
+}
+
+.mainSection h1, .mainSection p {
+  position: absolute;
+  left: 140px;
 }
 
 }
