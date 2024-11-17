@@ -1,5 +1,4 @@
 import styles from "./page.module.css";
-import bar from "./bar";
 import luz from "./utils/luz";
 import aboutSection from "./sections/aboutSection";
 import mainSection from "./sections/mainSection";

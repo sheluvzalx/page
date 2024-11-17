@@ -308,7 +308,7 @@ a.secondary {
   align-items: center;
   flex-direction: column;
   left: 30%;
-  top: 40px;
+  top: 0px;
   gap: 30px;
 }
 
@@ -359,7 +359,7 @@ a.secondary {
   justify-content: center;
   align-items: center;
   position: relative;
-  top: 50px;
+  top: 0px;
   left:460px;
 }
 
