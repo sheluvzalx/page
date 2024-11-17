@@ -1,7 +1,6 @@
 
 import styles from '@/app/page.module.css';
 import skills from './skills';
-import profilePic from '../utils/profile.jpg';
 
 export default function MainSection() {
     return (
