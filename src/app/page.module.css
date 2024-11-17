@@ -355,69 +355,13 @@ color: red;
 }
 
 /* SOME RESPONSIVE LINES */
-@media (max-width: 768px) {
-  .page {
-    grid-template-rows: auto 1fr auto;
-    padding: 10px;
-  }
-  
-  .main {
-    flex-direction: column;
-    gap: 16px;
-    align-items: center;
-  }
-
-  .imgsContainer {
-    position: static;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-
-
-
-  .skillsMain {
-    left: 0;
-    gap: 20px;
-  }
-
-  .contactCard {
-    position: relative;
-    left: 0;
-    width: auto;
-  }
-
-  .card {
-    width: 100%;
-    flex-direction: column;
-  }
+@media (max-width: 600px) {
+.card {
+  width: auto;
+  position: relative;
+  left: 0;
+  top: 500px;
 }
 
-@media (max-width: 480px) {
-  .mainSection h1 {
-    font-size: 1.5rem;
-    left: 0;
-    position: relative;
-    top: -20px;
-  }
-
-  .mainSection p {
-    margin-top: 10px;
-    text-align: center;
-  }
-
-  .frameworks div,
-  .plainText div {
-    font-size: 16px;
-    padding: 8px;
-  }
-  .card {
-    width: auto;
-    position: relative;
-    left: 0px;
-    top: 600px;
-  }
-  .skillsMain {
-    position: relative;
-    left: 0;
-  }
 }
+ 
