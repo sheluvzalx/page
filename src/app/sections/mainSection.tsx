@@ -7,7 +7,7 @@ export default function MainSection() {
 
         <div className={styles.mainSection}>
             <h1>
-                Spectre <span>♂</span>
+                Spec<span>tre</span>
             </h1>
             <p>
                 Web <span>Developer</span>

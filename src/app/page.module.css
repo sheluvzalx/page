@@ -277,6 +277,7 @@ a.secondary {
 .mainSection p {
   position: absolute;
   top: 30px;
+  left: 49%;
   display: flex;
   justify-content: center;
 }
@@ -289,6 +290,7 @@ a.secondary {
   flex-wrap: wrap;
   width: 200px;
   position: relative;
+  left: 20px;
   
 } 
 
