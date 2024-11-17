@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+
+
 import "./globals.css";
 import { SpeedInsights } from "@vercel/speed-insights/next"
 <SpeedInsights/>
@@ -20,6 +22,7 @@ export const metadata: Metadata = {
   description: "Spectre dev web page fr fr ※",
   keywords:'',  
 };
+
 
 export default function RootLayout({
   children,
