@@ -377,5 +377,11 @@ color: red;
   left: 140px;
 }
 
+.contactCard {
+  position: relative;
+  left: 0;
+  top: -300px;
+}
+
 }
  
