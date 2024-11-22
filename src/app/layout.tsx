@@ -30,7 +30,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    
+
     <html lang="">
       
    <body className={`${geistSans.variable} ${geistMono.variable}`}>
@@ -40,3 +40,5 @@ export default function RootLayout({
     
   );
 }
+
+

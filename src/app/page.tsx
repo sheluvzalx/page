@@ -10,7 +10,6 @@ export default function Home() {
 
       <main className={styles.main}>
         <div className="">
-    
           {luz()}
           {mainSection()}
           {aboutSection()}
