@@ -7,11 +7,6 @@ export default function aboutSection() {
             
             <div>🚀 | Payed Helper </div><div>Im <span> From</span> Dominican republic</div><div>😄 | Front-end web dev</div>
             <div>🔧 | Final Project's Coder</div><div>Trust <span>issues</span>(if u dont pay first u dont get my services)</div>
-           
-           
-            
-           
-            
            </div>
     )
 } 
