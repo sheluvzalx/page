@@ -6,6 +6,10 @@
     "discord": {
         "name": "discord",
         "link": "discord://-/users/852949329320345620"
+    },
+    "extension": {
+      "name": "spectre-SNIP",
+      "link": "https://marketplace.visualstudio.com/items?itemName=spectre-snippets.spectre-snip"
     }
   }
   

@@ -3,6 +3,7 @@ import luz from "./utils/luz";
 import aboutSection from "./sections/aboutSection";
 import mainSection from "./sections/mainSection";
 import contactSection from "./sections/contactSection";
+import extension from './sections/extension'
 
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className="">
           {luz()}
+          {extension()}
           {mainSection()}
           {aboutSection()}
           {contactSection()}
