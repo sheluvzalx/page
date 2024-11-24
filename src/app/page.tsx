@@ -3,7 +3,7 @@ import luz from "./utils/luz";
 import aboutSection from "./sections/aboutSection";
 import mainSection from "./sections/mainSection";
 import contactSection from "./sections/contactSection";
-import grafico from "./sections/grafico";
+
 
 export default function Home() {
   return (
@@ -13,7 +13,6 @@ export default function Home() {
         <div className="">
           {luz()}
           {mainSection()}
-          {grafico()}
           {aboutSection()}
           {contactSection()}
         </div>
