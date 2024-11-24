@@ -394,7 +394,7 @@ color: red;
 }
 
 .ext {
-  display: none;
+  opacity: 0;
 }
 
 }
